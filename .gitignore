@@ -1,0 +1,9 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Image dataset
+raw_images_crawled/
+
+# OS or Editor files
+.DS_Store
+*.swp

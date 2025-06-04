@@ -234,7 +234,3 @@ Total: 106 processed images
 4. **Use specific terms** - "chocolate croissant" vs "pastry"
 5. **Enable bread suffix for food items** - improves search relevance
 6. **Be patient** - add delays between requests to avoid blocking
-
-## 📄 License
-
-This project is open source and available under the MIT License.
